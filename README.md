@@ -9,7 +9,7 @@ Secure Communication Anywhere Anytime
 - [x] RSA implemantation
 - [x] Add bascic handy functions
 - [ ] Add more handy functions
-- [ ] Create an api to store keys
+- [ ] Create an web api to store keys
 - [ ] Add setup for all platform
 - [ ] Create tkinter GUI
 - [ ] Create more task list
