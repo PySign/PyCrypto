@@ -11,9 +11,11 @@
 - [x] RSA implementation
 - [x] Add basic handy functions
 - [ ] Add more handy functions
-- [ ] Create an web api to store keys
+- [ ] ~~Create an web api to store keys~~
+- [ ] Create Flask REST API to store keys
 - [ ] Add setup for all platform
-- [ ] Create TKinter GUI
+- [ ] ~~Create TKinter GUI~~
+- [ ] Create Electron JS UI
 - [ ] Create more task list
 
 #### Contact
