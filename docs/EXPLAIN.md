@@ -1,6 +1,6 @@
-# PyCrypto Explanation [`Back`](index.md)
+# PyCrypto Explanation [Back](index.md)
 
-## How does it encrypt
+## How does it works
 
 **First it will generate two pairs of key and save public key in server and save private key in file system. If you lost your key, you can't restore your message.**
 
