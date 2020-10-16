@@ -13,3 +13,8 @@ Secure Communication Anywhere Anytime
 - [ ] Add setup for all platform
 - [ ] Create tkinter GUI
 - [ ] Create more task list
+
+#### Contact
+
+Telegram: [@PySign](https://t.me/PySign), [@JRudransh](https://t.me/JRudransh)
+Twiter: [@JRudransh](https://twitter.com/JRudransh), [@PS73859673](https://twitter.com/PS73859673)
