@@ -1,4 +1,4 @@
-# PyCrypto Explanation [Back](index.md)
+# Explanation of PyCrypto | [PyCrypto](index.md)
 
 ## How does it works
 

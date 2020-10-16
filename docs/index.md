@@ -1,4 +1,4 @@
-# Let's become more secure together
+# PySign is making you more secure
 
 > The project is under construction
 
