@@ -1,8 +1,8 @@
 # The features list
 
-## The page is for batter understandig of features
+## The page is for batter understanding of features
 
-### RSA implemantation
+### RSA implementation
 
 ### Add basic handy functions
 

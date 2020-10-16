@@ -6,7 +6,7 @@ Secure Communication Anywhere Anytime
 
 ### For development
 
-- [x] RSA implemantation
+- [x] RSA implementation [more]
 - [x] Add basic handy functions
 - [ ] Add more handy functions
 - [ ] Create an web api to store keys
@@ -17,4 +17,4 @@ Secure Communication Anywhere Anytime
 #### Contact
 
 Telegram: [@PySign](https://t.me/PySign), [@JRudransh](https://t.me/JRudransh)
-Twiter: [@JRudransh](https://twitter.com/JRudransh), [@PS73859673](https://twitter.com/PS73859673)
+Twitter: [@JRudransh](https://twitter.com/JRudransh), [@PS73859673](https://twitter.com/PS73859673)
