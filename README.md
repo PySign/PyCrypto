@@ -7,7 +7,7 @@ Secure Communication Anywhere Anytime
 ### For development
 
 - [x] RSA implemantation
-- [x] Add bascic handy functions
+- [x] Add basic handy functions
 - [ ] Add more handy functions
 - [ ] Create an web api to store keys
 - [ ] Add setup for all platform
