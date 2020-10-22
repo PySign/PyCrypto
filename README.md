@@ -12,10 +12,13 @@
 - [x] Add basic handy functions
 - [ ] Add more handy functions
 - [ ] ~~Create an web api to store keys~~
-- [ ] Create Flask REST API to store keys
+- [ ] Create Flask REST API to store keys online
 - [ ] Add setup for all platform
 - [ ] ~~Create TKinter GUI~~
 - [ ] Create Electron JS UI
+- [ ] Integrate top mails api
+- [ ] Integrate Telegram api
+- [ ] Integrate Messenger api
 - [ ] Create more task list
 
 #### Contact
